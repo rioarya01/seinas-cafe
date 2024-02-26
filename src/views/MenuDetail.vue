@@ -23,7 +23,7 @@
             <!-- Content -->
             <div class="row mt-1 mt-sm-3">
                 <div class="col-md-6">
-                    <img :src="`/src/assets/img/${product.image}`" alt="Menu Images" width="100%" class="img-fluid rounded-4 shadow">
+                    <img :src="`/public/img/${product.image}`" alt="Menu Images" width="100%" class="img-fluid rounded-4 shadow">
                 </div>
                 <div class="col-md-6">
                     <h2 class="fw-bolder mt-4 mt-sm-0">{{ product.name }}</h2>

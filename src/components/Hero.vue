@@ -16,7 +16,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="../assets/img/hero.webp" alt="Hero Images" width="100%" class="rounded-4 shadow">
+                    <img src="/public/img/hero.webp" alt="Hero Images" width="100%" class="rounded-4 shadow">
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
         <div class="d-sm-block d-md-none">
             <div class="row mt-4">
                 <div class="col-md-6 mb-3">
-                    <img src="../assets/img/hero.webp" alt="Hero Images" width="100%" class="rounded-4 shadow">
+                    <img src="/public/img/hero.webp" alt="Hero Images" width="100%" class="rounded-4 shadow">
                 </div>
                 <div class="col-md-6">
                     <div class="d-flex h-100">
