@@ -43,7 +43,7 @@
                                 <tr v-for="(cart, index) in carts" :key="cart.id">
                                     <th>{{index+1}}</th>
                                     <td>
-                                        <img :src="`/public/img/${cart.product.image}`" alt="Menu Images" width="200" class="img-fluid rounded-4 shadow">
+                                        <img :src="`/img/${cart.product.image}`" alt="Menu Images" width="200" class="img-fluid rounded-4 shadow">
                                     </td>
                                     <td><h5>{{cart.product.name}}</h5></td>
                                     <td><p>{{cart.description ? cart.description : "-"}}</p></td>

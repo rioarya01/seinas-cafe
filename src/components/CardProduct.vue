@@ -1,6 +1,6 @@
 <template>
     <div class="card shadow rounded-4" style="width: 18rem;">
-        <img :src="`/public/img/${product.image}`" class="card-img-top rounded-top-4" :alt="product.name">
+        <img :src="`/img/${product.image}`" class="card-img-top rounded-top-4" :alt="product.name">
         <div class="card-body">
             <h5 class="card-title">{{ product.name }}</h5>
             <p class="card-text">
