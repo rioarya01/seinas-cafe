@@ -1,0 +1,52 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold !important;
+    color: #0D9276 !important;
+}
+
+.text-green {
+    color: #0D9276 !important;
+}
+
+.text-green-hover:hover {
+    color: #11C19C !important;
+    transition: all 0.3s ease-in-out !important;
+}
+
+.bg-green {
+    background-color: #0D9276 !important;
+}
+
+.btn-green {
+    background-color: #0D9276 !important;
+    color: #fff !important;
+}
+
+.btn-green:hover {
+    background-color: #11C19C !important;
+    transition: all 0.3s ease-in-out !important;
+}
+
+.btn-outline-green {
+    border: 1px solid #0D9276 !important;
+    color: #0D9276 !important;
+}
+
+.btn-outline-green:hover {
+    background-color: #0D9276 !important;
+    color: #fff !important;
+    transition: all 0.3s ease-in-out !important;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold !important;
+    color: #0D9276 !important;
+}
+
+.form-control:focus {
+    border-color: #0D9276 !important;
+    box-shadow: 0 0 0 0.2rem rgba(13, 146, 118, 0.25) !important;
+}
